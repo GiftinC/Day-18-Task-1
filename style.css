@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+.card-header {
+    text-align: left;
+}
+
+.card-text {
+    text-align: left;
+}
+
+div.row {
+margin-top: 50px;
+    justify-content: center;
+}
